@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. skills that I have learnt are how to render a image on page using <img> tag, how to create a link using <a href> tag, to bold a text using<b> and to draw a line using <hr> tag.Also all tags are not paired tags.
+
+
+
+2.Everything was easy.
+
+3.nothing was very difficult except I didn’t know how to draw line but now I know it using <hr>
+
+
+4.problem solving stratergy was to see how elements are placed in the snapshot just go step by step refresh the page to get the idea that changes made in index.html are correct and I am approaching towards my goal to make the replica of the snapshot provided.
